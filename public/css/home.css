@@ -1,5 +1,4 @@
-body{
-    background-image: url('/img/bg-body\ \(2\).png');
+.main__banner{
+    display: none;
     width: 100%;
-
 }
